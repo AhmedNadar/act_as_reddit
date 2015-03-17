@@ -15,5 +15,8 @@ group :development, :test do
   gem "pry-rails"
   gem 'pry'
   gem 'devise', '3.4.1'
+  gem 'bootstrap-sass', '~> 3.3.4'
+  gem 'simple_form'
+  gem 'acts_as_votable', '~> 0.10.0'
 end
 
