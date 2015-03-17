@@ -14,5 +14,6 @@ group :development, :test do
   gem 'spring'
   gem "pry-rails"
   gem 'pry'
+  gem 'devise', '3.4.1'
 end
 
